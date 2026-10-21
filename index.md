@@ -1,7 +1,7 @@
-# Hi, my name is Gavin McClowry. Welcome to My Portfolio!
+# Hi, my name is Gavin McClowry. Welcome to my Portfolio!
 
 ## About Me
-I recently graduated from Wheaton College with a computer science degree and mathematics minor. I have experience in Java, Python, SQL and full-stack development, and I also have research experience building software and working with data.
+I recently graduated from Wheaton College with a B.S. in computer science and minor in mathematics. I have experience in Java, Python, SQL and full-stack development, and I also have research experience building software and working with data.
 
 ## Projects
 
